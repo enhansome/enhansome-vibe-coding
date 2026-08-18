@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T08:56:21Z",
+            "last_commit": "2026-08-18T03:48:49Z",
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35505
+            "stars": 35523
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33830
+            "stars": 33829
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-16T11:24:31Z",
+            "last_commit": "2026-08-17T08:33:44Z",
             "owner": "yetone",
             "repo": "avante.nvim",
-            "stars": 18111
+            "stars": 18115
           }
         },
         {
@@ -67,10 +67,24 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-16T20:39:08Z",
+            "last_commit": "2026-08-17T21:13:09Z",
             "owner": "olimorris",
             "repo": "codecompanion.nvim",
-            "stars": 6803
+            "stars": 6809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Junie",
+          "description": "LLM-agnostic coding agent by JetBrains for terminal, IDE, and CI/CD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-17T22:59:43Z",
+            "owner": "JetBrains",
+            "repo": "junie",
+            "stars": 392
           }
         },
         {
@@ -85,20 +99,6 @@
             "owner": "backnotprop",
             "repo": "prompt-tower",
             "stars": 382
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Junie",
-          "description": "LLM-agnostic coding agent by JetBrains for terminal, IDE, and CI/CD.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-15T10:33:06Z",
-            "owner": "JetBrains",
-            "repo": "junie",
-            "stars": 380
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-02-07T14:36:22Z",
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19752
+            "stars": 19756
           }
         },
         {
@@ -135,10 +135,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T03:52:27Z",
+            "last_commit": "2026-08-18T03:40:20Z",
             "owner": "superset-sh",
             "repo": "superset",
-            "stars": 12970
+            "stars": 13003
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-08-14T11:22:03Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 975
+            "stars": 977
           }
         },
         {
@@ -175,10 +175,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:20:56Z",
+            "last_commit": "2026-08-17T20:20:58Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 141684
+            "stars": 141793
           }
         },
         {
@@ -189,10 +189,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T02:04:15Z",
+            "last_commit": "2026-08-18T02:01:01Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106537
+            "stars": 106545
           }
         },
         {
@@ -203,10 +203,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T00:34:29Z",
+            "last_commit": "2026-08-18T03:33:26Z",
             "owner": "openai",
             "repo": "codex",
-            "stars": 106325
+            "stars": 106525
           }
         },
         {
@@ -217,10 +217,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T23:06:25Z",
+            "last_commit": "2026-08-18T00:23:15Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 84247
+            "stars": 84346
           }
         },
         {
@@ -231,10 +231,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T00:30:35Z",
+            "last_commit": "2026-08-18T00:29:32Z",
             "owner": "charmbracelet",
             "repo": "crush",
-            "stars": 27428
+            "stars": 27459
           }
         },
         {
@@ -245,10 +245,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T03:57:54Z",
+            "last_commit": "2026-08-18T03:53:48Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 27086
+            "stars": 27128
           }
         },
         {
@@ -259,10 +259,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T17:30:35Z",
+            "last_commit": "2026-08-17T10:36:28Z",
             "owner": "HKUDS",
             "repo": "DeepCode",
-            "stars": 16363
+            "stars": 16364
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2025-10-03T21:49:58Z",
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15587
+            "stars": 15590
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2026-08-03T07:59:07Z",
             "owner": "MoonshotAI",
             "repo": "kimi-cli",
-            "stars": 11198
+            "stars": 11206
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-14T23:47:00Z",
             "owner": "github",
             "repo": "copilot-cli",
-            "stars": 11098
+            "stars": 11100
           }
         },
         {
@@ -332,7 +332,7 @@
             "last_commit": "2026-02-23T11:16:42Z",
             "owner": "sigoden",
             "repo": "aichat",
-            "stars": 10360
+            "stars": 10361
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2026-08-15T16:21:18Z",
             "owner": "cloudflare",
             "repo": "vibesdk",
-            "stars": 5322
+            "stars": 5323
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2026-08-13T16:38:15Z",
             "owner": "mistralai",
             "repo": "mistral-vibe",
-            "stars": 4840
+            "stars": 4843
           }
         },
         {
@@ -371,7 +371,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T03:29:28Z",
+            "last_commit": "2026-08-18T02:52:25Z",
             "owner": "gptme",
             "repo": "gptme",
             "stars": 4390
@@ -388,7 +388,7 @@
             "last_commit": "2026-07-06T14:05:33Z",
             "owner": "superagent-ai",
             "repo": "grok-cli",
-            "stars": 3406
+            "stars": 3411
           }
         },
         {
@@ -430,7 +430,7 @@
             "last_commit": "2026-07-08T08:13:58Z",
             "owner": "Gentleman-Programming",
             "repo": "gentleman-guardian-angel",
-            "stars": 1122
+            "stars": 1123
           }
         },
         {
@@ -441,10 +441,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T15:32:07Z",
+            "last_commit": "2026-08-18T01:41:04Z",
             "owner": "ludo-technologies",
             "repo": "pyscn",
-            "stars": 1031
+            "stars": 1032
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2026-07-31T16:51:58Z",
             "owner": "onllm-dev",
             "repo": "onWatch",
-            "stars": 711
+            "stars": 712
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28003
+            "stars": 28004
           }
         },
         {
@@ -534,7 +534,7 @@
             "last_commit": "2026-04-24T09:17:34Z",
             "owner": "BloopAI",
             "repo": "vibe-kanban",
-            "stars": 27822
+            "stars": 27834
           }
         },
         {
@@ -545,10 +545,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T09:21:14Z",
+            "last_commit": "2026-08-17T22:53:10Z",
             "owner": "coleam00",
             "repo": "Archon",
-            "stars": 23218
+            "stars": 23221
           }
         },
         {
@@ -573,10 +573,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T03:23:58Z",
+            "last_commit": "2026-08-18T03:23:09Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4037
+            "stars": 4053
           }
         }
       ],
@@ -593,10 +593,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T14:10:00Z",
+            "last_commit": "2026-08-17T12:16:24Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 60847
+            "stars": 60900
           }
         },
         {
@@ -610,7 +610,7 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40600
+            "stars": 40606
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2026-05-25T14:57:42Z",
             "owner": "EnzeD",
             "repo": "vibe-coding",
-            "stars": 4754
+            "stars": 4756
           }
         },
         {
@@ -638,7 +638,7 @@
             "last_commit": "2026-07-18T21:54:53Z",
             "owner": "KhazP",
             "repo": "vibe-coding-prompt-template",
-            "stars": 2840
+            "stars": 2844
           }
         },
         {
@@ -652,7 +652,7 @@
             "last_commit": "2026-08-10T11:54:43Z",
             "owner": "AnswerDotAI",
             "repo": "llms-txt",
-            "stars": 2565
+            "stars": 2569
           }
         },
         {
@@ -694,7 +694,7 @@
             "last_commit": "2026-06-07T06:48:36Z",
             "owner": "mcpware",
             "repo": "cross-code-organizer",
-            "stars": 368
+            "stars": 369
           }
         }
       ],
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:59:09.225Z",
+    "last_updated": "2026-08-18T03:55:19.923Z",
     "original_repository": "filipecalegario/awesome-vibe-coding",
     "original_repository_sha": "59d50281e40651d574ea0ead592a08019d74730d",
     "enhanced_repository": "enhansome/enhansome-vibe-coding",
