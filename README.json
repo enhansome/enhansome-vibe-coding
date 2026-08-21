@@ -12,10 +12,10 @@
             "archived": false,
             "id": 644686905,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:27:27Z",
+            "last_commit": "2026-08-20T10:27:05Z",
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35547
+            "stars": 35566
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33831
+            "stars": 33830
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 842586148,
             "language": "Lua",
-            "last_commit": "2026-08-19T16:57:57Z",
-            "owner": "yetone",
+            "last_commit": "2026-08-20T20:46:10Z",
+            "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18119
+            "stars": 18124
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-11T15:10:42Z",
             "owner": "github",
             "repo": "copilot.vim",
-            "stars": 11681
+            "stars": 11684
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-18T21:27:25Z",
             "owner": "olimorris",
             "repo": "codecompanion.nvim",
-            "stars": 6813
+            "stars": 6815
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 962099340,
             "language": "Shell",
-            "last_commit": "2026-08-19T21:57:21Z",
+            "last_commit": "2026-08-20T21:43:37Z",
             "owner": "JetBrains",
             "repo": "junie",
             "stars": 397
@@ -126,7 +126,7 @@
             "last_commit": "2026-02-07T14:36:22Z",
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19769
+            "stars": 19779
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 1080370450,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:38:13Z",
+            "last_commit": "2026-08-21T03:45:28Z",
             "owner": "superset-sh",
             "repo": "superset",
-            "stars": 13111
+            "stars": 13167
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-20T00:54:41Z",
+            "last_commit": "2026-08-20T20:33:50Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142048
+            "stars": 142173
           }
         },
         {
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 965415649,
             "language": "Rust",
-            "last_commit": "2026-08-20T03:11:46Z",
+            "last_commit": "2026-08-21T03:49:32Z",
             "owner": "openai",
             "repo": "codex",
-            "stars": 106912
+            "stars": 108636
           }
         },
         {
@@ -204,10 +204,10 @@
             "archived": false,
             "id": 968197216,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:27:23Z",
+            "last_commit": "2026-08-21T01:08:09Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106585
+            "stars": 106598
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 771302083,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:59:59Z",
+            "last_commit": "2026-08-21T03:37:41Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 84518
+            "stars": 84650
           }
         },
         {
@@ -234,10 +234,10 @@
             "archived": false,
             "id": 987670088,
             "language": "Go",
-            "last_commit": "2026-08-20T00:24:12Z",
+            "last_commit": "2026-08-20T13:25:32Z",
             "owner": "charmbracelet",
             "repo": "crush",
-            "stars": 27510
+            "stars": 27542
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 1008713177,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T03:53:25Z",
+            "last_commit": "2026-08-21T03:55:25Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 27206
+            "stars": 27234
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-19T20:34:32Z",
             "owner": "HKUDS",
             "repo": "DeepCode",
-            "stars": 16377
+            "stars": 16389
           }
         },
         {
@@ -282,22 +282,7 @@
             "last_commit": "2025-10-03T21:49:58Z",
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15588
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "claude-engineer",
-          "description": "A self-improving AI coding assistant CLI built on Claude that can generate and manage its own tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 819514136,
-            "language": "Python",
-            "last_commit": "2024-12-12T22:08:15Z",
-            "owner": "Doriandarko",
-            "repo": "claude-engineer",
-            "stars": 11225
+            "stars": 15590
           }
         },
         {
@@ -312,7 +297,22 @@
             "last_commit": "2026-08-03T07:59:07Z",
             "owner": "MoonshotAI",
             "repo": "kimi-cli",
-            "stars": 11223
+            "stars": 11231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "claude-engineer",
+          "description": "A self-improving AI coding assistant CLI built on Claude that can generate and manage its own tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 819514136,
+            "language": "Python",
+            "last_commit": "2024-12-12T22:08:15Z",
+            "owner": "Doriandarko",
+            "repo": "claude-engineer",
+            "stars": 11226
           }
         },
         {
@@ -324,10 +324,10 @@
             "archived": false,
             "id": 585860664,
             "language": "Shell",
-            "last_commit": "2026-08-19T23:16:31Z",
+            "last_commit": "2026-08-20T17:59:53Z",
             "owner": "github",
             "repo": "copilot-cli",
-            "stars": 11104
+            "stars": 11108
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-02-23T11:16:42Z",
             "owner": "sigoden",
             "repo": "aichat",
-            "stars": 10371
+            "stars": 10377
           }
         },
         {
@@ -354,10 +354,10 @@
             "archived": false,
             "id": 1044360605,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:22:49Z",
+            "last_commit": "2026-08-20T12:45:41Z",
             "owner": "cloudflare",
             "repo": "vibesdk",
-            "stars": 5323
+            "stars": 5324
           }
         },
         {
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 1112533539,
             "language": "Python",
-            "last_commit": "2026-08-18T14:13:33Z",
+            "last_commit": "2026-08-20T17:38:59Z",
             "owner": "mistralai",
             "repo": "mistral-vibe",
-            "stars": 4850
+            "stars": 4855
           }
         },
         {
@@ -384,10 +384,10 @@
             "archived": false,
             "id": 618514446,
             "language": "Python",
-            "last_commit": "2026-08-20T03:37:34Z",
+            "last_commit": "2026-08-21T03:50:24Z",
             "owner": "gptme",
             "repo": "gptme",
-            "stars": 4390
+            "stars": 4392
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-07-06T14:05:33Z",
             "owner": "superagent-ai",
             "repo": "grok-cli",
-            "stars": 3416
+            "stars": 3425
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-01-30T16:24:40Z",
             "owner": "ai-christianson",
             "repo": "RA.Aid",
-            "stars": 2221
+            "stars": 2222
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2026-01-13T18:48:57Z",
             "owner": "superagent-ai",
             "repo": "vibekit",
-            "stars": 1847
+            "stars": 1848
           }
         },
         {
@@ -447,7 +447,7 @@
             "last_commit": "2026-07-08T08:13:58Z",
             "owner": "Gentleman-Programming",
             "repo": "gentleman-guardian-angel",
-            "stars": 1126
+            "stars": 1129
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2026-08-18T07:39:28Z",
             "owner": "ludo-technologies",
             "repo": "pyscn",
-            "stars": 1034
+            "stars": 1035
           }
         },
         {
@@ -474,10 +474,10 @@
             "archived": false,
             "id": 1151441959,
             "language": "Go",
-            "last_commit": "2026-08-19T12:23:08Z",
+            "last_commit": "2026-08-20T17:19:37Z",
             "owner": "onllm-dev",
             "repo": "onWatch",
-            "stars": 713
+            "stars": 714
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2025-11-20T20:43:46Z",
             "owner": "zamalali",
             "repo": "langchain-code",
-            "stars": 441
+            "stars": 440
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28002
+            "stars": 28008
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-04-24T09:17:34Z",
             "owner": "BloopAI",
             "repo": "vibe-kanban",
-            "stars": 27856
+            "stars": 27870
           }
         },
         {
@@ -570,10 +570,10 @@
             "archived": false,
             "id": 929121414,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T20:31:53Z",
+            "last_commit": "2026-08-21T00:32:19Z",
             "owner": "coleam00",
             "repo": "Archon",
-            "stars": 23231
+            "stars": 23236
           }
         },
         {
@@ -588,7 +588,7 @@
             "last_commit": "2026-03-18T12:15:24Z",
             "owner": "automazeio",
             "repo": "ccpm",
-            "stars": 8345
+            "stars": 8346
           }
         },
         {
@@ -600,10 +600,10 @@
             "archived": false,
             "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-20T03:55:38Z",
+            "last_commit": "2026-08-21T03:40:56Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4088
+            "stars": 4111
           }
         }
       ],
@@ -621,10 +621,10 @@
             "archived": false,
             "id": 955620917,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T09:01:11Z",
+            "last_commit": "2026-08-20T10:12:45Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 60991
+            "stars": 61030
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40615
+            "stars": 40625
           }
         },
         {
@@ -654,7 +654,7 @@
             "last_commit": "2026-05-25T14:57:42Z",
             "owner": "EnzeD",
             "repo": "vibe-coding",
-            "stars": 4757
+            "stars": 4760
           }
         },
         {
@@ -665,11 +665,11 @@
           "repo_info": {
             "archived": false,
             "id": 966284222,
-            "language": "Python",
-            "last_commit": "2026-07-18T21:54:53Z",
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T13:52:35Z",
             "owner": "KhazP",
             "repo": "vibe-coding-prompt-template",
-            "stars": 2852
+            "stars": 2856
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-08-10T11:54:43Z",
             "owner": "AnswerDotAI",
             "repo": "llms-txt",
-            "stars": 2574
+            "stars": 2575
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-03-16T19:41:15Z",
             "owner": "BayramAnnakov",
             "repo": "claude-reflect",
-            "stars": 1408
+            "stars": 1411
           }
         },
         {
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:55:55.099Z",
+    "last_updated": "2026-08-21T03:57:41.970Z",
     "original_repository": "filipecalegario/awesome-vibe-coding",
     "original_repository_id": 948072295,
     "original_repository_sha": "59d50281e40651d574ea0ead592a08019d74730d",
