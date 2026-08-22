@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T10:27:05Z",
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35566
+            "stars": 35579
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-30T20:38:02Z",
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33830
+            "stars": 33832
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 842586148,
             "language": "Lua",
-            "last_commit": "2026-08-20T20:46:10Z",
+            "last_commit": "2026-08-21T23:31:58Z",
             "owner": "avante-corp",
             "repo": "avante.nvim",
             "stars": 18124
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-11T15:10:42Z",
             "owner": "github",
             "repo": "copilot.vim",
-            "stars": 11684
+            "stars": 11683
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 736363011,
             "language": "Lua",
-            "last_commit": "2026-08-18T21:27:25Z",
+            "last_commit": "2026-08-21T13:50:11Z",
             "owner": "olimorris",
             "repo": "codecompanion.nvim",
-            "stars": 6815
+            "stars": 6817
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 962099340,
             "language": "Shell",
-            "last_commit": "2026-08-20T21:43:37Z",
+            "last_commit": "2026-08-22T00:31:27Z",
             "owner": "JetBrains",
             "repo": "junie",
-            "stars": 397
+            "stars": 395
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-02-07T14:36:22Z",
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19779
+            "stars": 19788
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 1080370450,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T03:45:28Z",
+            "last_commit": "2026-08-22T01:32:59Z",
             "owner": "superset-sh",
             "repo": "superset",
-            "stars": 13167
+            "stars": 13204
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 1160727878,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T11:53:56Z",
+            "last_commit": "2026-08-21T17:08:41Z",
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 982
+            "stars": 986
           }
         }
       ],
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-20T20:33:50Z",
+            "last_commit": "2026-08-21T19:54:23Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142173
+            "stars": 142318
           }
         },
         {
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 965415649,
             "language": "Rust",
-            "last_commit": "2026-08-21T03:49:32Z",
+            "last_commit": "2026-08-22T00:44:40Z",
             "owner": "openai",
             "repo": "codex",
-            "stars": 108636
+            "stars": 111558
           }
         },
         {
@@ -204,10 +204,10 @@
             "archived": false,
             "id": 968197216,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T01:08:09Z",
+            "last_commit": "2026-08-22T01:10:05Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106598
+            "stars": 106608
           }
         },
         {
@@ -219,10 +219,10 @@
             "archived": false,
             "id": 771302083,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T03:37:41Z",
+            "last_commit": "2026-08-22T03:15:10Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 84650
+            "stars": 84745
           }
         },
         {
@@ -234,10 +234,10 @@
             "archived": false,
             "id": 987670088,
             "language": "Go",
-            "last_commit": "2026-08-20T13:25:32Z",
+            "last_commit": "2026-08-22T00:29:24Z",
             "owner": "charmbracelet",
             "repo": "crush",
-            "stars": 27542
+            "stars": 27568
           }
         },
         {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 1008713177,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T03:55:25Z",
+            "last_commit": "2026-08-22T03:51:47Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 27234
+            "stars": 27279
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-19T20:34:32Z",
             "owner": "HKUDS",
             "repo": "DeepCode",
-            "stars": 16389
+            "stars": 16401
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2025-10-03T21:49:58Z",
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15590
+            "stars": 15591
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-03T07:59:07Z",
             "owner": "MoonshotAI",
             "repo": "kimi-cli",
-            "stars": 11231
+            "stars": 11236
           }
         },
         {
@@ -324,10 +324,10 @@
             "archived": false,
             "id": 585860664,
             "language": "Shell",
-            "last_commit": "2026-08-20T17:59:53Z",
+            "last_commit": "2026-08-21T18:39:24Z",
             "owner": "github",
             "repo": "copilot-cli",
-            "stars": 11108
+            "stars": 11110
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-08-20T12:45:41Z",
             "owner": "cloudflare",
             "repo": "vibesdk",
-            "stars": 5324
+            "stars": 5326
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-20T17:38:59Z",
             "owner": "mistralai",
             "repo": "mistral-vibe",
-            "stars": 4855
+            "stars": 4860
           }
         },
         {
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 618514446,
             "language": "Python",
-            "last_commit": "2026-08-21T03:50:24Z",
+            "last_commit": "2026-08-22T02:50:27Z",
             "owner": "gptme",
             "repo": "gptme",
             "stars": 4392
@@ -477,7 +477,7 @@
             "last_commit": "2026-08-20T17:19:37Z",
             "owner": "onllm-dev",
             "repo": "onWatch",
-            "stars": 714
+            "stars": 715
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28008
+            "stars": 28009
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-04-24T09:17:34Z",
             "owner": "BloopAI",
             "repo": "vibe-kanban",
-            "stars": 27870
+            "stars": 27882
           }
         },
         {
@@ -570,10 +570,10 @@
             "archived": false,
             "id": 929121414,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T00:32:19Z",
+            "last_commit": "2026-08-22T03:53:03Z",
             "owner": "coleam00",
             "repo": "Archon",
-            "stars": 23236
+            "stars": 23243
           }
         },
         {
@@ -600,10 +600,10 @@
             "archived": false,
             "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-21T03:40:56Z",
+            "last_commit": "2026-08-22T02:34:59Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4111
+            "stars": 4122
           }
         }
       ],
@@ -621,10 +621,10 @@
             "archived": false,
             "id": 955620917,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T10:12:45Z",
+            "last_commit": "2026-08-21T08:01:35Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61030
+            "stars": 61060
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-05-30T18:01:29Z",
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40625
+            "stars": 40634
           }
         },
         {
@@ -666,10 +666,10 @@
             "archived": false,
             "id": 966284222,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T13:52:35Z",
+            "last_commit": "2026-08-21T09:54:43Z",
             "owner": "KhazP",
             "repo": "vibe-coding-prompt-template",
-            "stars": 2856
+            "stars": 2860
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-08-10T11:54:43Z",
             "owner": "AnswerDotAI",
             "repo": "llms-txt",
-            "stars": 2575
+            "stars": 2578
           }
         },
         {
@@ -729,7 +729,7 @@
             "last_commit": "2026-06-07T06:48:36Z",
             "owner": "mcpware",
             "repo": "cross-code-organizer",
-            "stars": 369
+            "stars": 370
           }
         }
       ],
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:57:41.970Z",
+    "last_updated": "2026-08-22T03:53:04.442Z",
     "original_repository": "filipecalegario/awesome-vibe-coding",
     "original_repository_id": 948072295,
     "original_repository_sha": "59d50281e40651d574ea0ead592a08019d74730d",
