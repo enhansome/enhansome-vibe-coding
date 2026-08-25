@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T16:42:22Z",
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35618
+            "stars": 35619
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T09:11:53Z",
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18133
+            "stars": 18134
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 1080370450,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T03:54:50Z",
+            "last_commit": "2026-08-25T05:40:32Z",
             "owner": "superset-sh",
             "repo": "superset",
-            "stars": 13319
+            "stars": 13324
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-25T03:38:22Z",
+            "last_commit": "2026-08-25T05:13:24Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 142904
+            "stars": 142911
           }
         },
         {
@@ -189,10 +189,10 @@
             "archived": false,
             "id": 965415649,
             "language": "Rust",
-            "last_commit": "2026-08-25T03:40:42Z",
+            "last_commit": "2026-08-25T05:37:13Z",
             "owner": "openai",
             "repo": "codex",
-            "stars": 117328
+            "stars": 117410
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-08-25T02:02:13Z",
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106671
+            "stars": 106672
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-25T00:59:54Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 85001
+            "stars": 85007
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2026-08-25T00:30:34Z",
             "owner": "charmbracelet",
             "repo": "crush",
-            "stars": 27653
+            "stars": 27658
           }
         },
         {
@@ -249,7 +249,7 @@
             "archived": false,
             "id": 1008713177,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T03:53:02Z",
+            "last_commit": "2026-08-25T05:48:16Z",
             "owner": "QwenLM",
             "repo": "qwen-code",
             "stars": 27343
@@ -282,7 +282,7 @@
             "last_commit": "2025-10-03T21:49:58Z",
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15594
+            "stars": 15593
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2024-12-12T22:08:15Z",
             "owner": "Doriandarko",
             "repo": "claude-engineer",
-            "stars": 11223
+            "stars": 11222
           }
         },
         {
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 618514446,
             "language": "Python",
-            "last_commit": "2026-08-25T02:54:38Z",
+            "last_commit": "2026-08-25T05:45:58Z",
             "owner": "gptme",
             "repo": "gptme",
             "stars": 4393
@@ -558,7 +558,7 @@
             "last_commit": "2026-04-24T09:17:34Z",
             "owner": "BloopAI",
             "repo": "vibe-kanban",
-            "stars": 27906
+            "stars": 27907
           }
         },
         {
@@ -570,7 +570,7 @@
             "archived": false,
             "id": 929121414,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:07:51Z",
+            "last_commit": "2026-08-25T05:43:37Z",
             "owner": "coleam00",
             "repo": "Archon",
             "stars": 23265
@@ -588,7 +588,7 @@
             "last_commit": "2026-03-18T12:15:24Z",
             "owner": "automazeio",
             "repo": "ccpm",
-            "stars": 8346
+            "stars": 8347
           }
         },
         {
@@ -600,10 +600,10 @@
             "archived": false,
             "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-25T02:13:48Z",
+            "last_commit": "2026-08-25T05:47:38Z",
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4158
+            "stars": 4157
           }
         }
       ],
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-24T12:32:53Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61171
+            "stars": 61173
           }
         },
         {
@@ -684,7 +684,7 @@
             "last_commit": "2026-08-10T11:54:43Z",
             "owner": "AnswerDotAI",
             "repo": "llms-txt",
-            "stars": 2581
+            "stars": 2582
           }
         },
         {
@@ -737,7 +737,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:56:45.048Z",
+    "last_updated": "2026-08-25T05:49:54.298Z",
     "original_repository": "filipecalegario/awesome-vibe-coding",
     "original_repository_id": 948072295,
     "original_repository_sha": "59d50281e40651d574ea0ead592a08019d74730d",
