@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "open-source coding agent",
+            "homepage": "https://continue.dev",
             "id": 644686905,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:05:03Z",
+            "open_issues": 944,
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35664
+            "stars": 35668,
+            "topics": [
+              "agent",
+              "ai",
+              "cli",
+              "developer-tools",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -26,12 +37,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted AI coding assistant",
+            "homepage": "https://tabbyml.com",
             "id": 614764248,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
+            "open_issues": 333,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33840
+            "stars": 33842,
+            "topics": [
+              "ai",
+              "codegen",
+              "coding-assistant",
+              "coding-language",
+              "developer-experience",
+              "developer-tools",
+              "gen-ai",
+              "ide",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -42,12 +68,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use your Neovim like using Cursor AI IDE!",
+            "homepage": null,
             "id": 842586148,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:09:19Z",
+            "open_issues": 41,
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18132
+            "stars": 18133,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -58,12 +89,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neovim plugin for GitHub Copilot",
+            "homepage": null,
             "id": 419446329,
             "language": "Vim Script",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-11T15:10:42Z",
+            "open_issues": 63,
             "owner": "github",
             "repo": "copilot.vim",
-            "stars": 11686
+            "stars": 11686,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -74,12 +110,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ AI Coding, Vim Style",
+            "homepage": "https://codecompanion.olimorris.dev",
             "id": 736363011,
             "language": "Lua",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T07:24:56Z",
+            "open_issues": 12,
             "owner": "olimorris",
             "repo": "codecompanion.nvim",
-            "stars": 6827
+            "stars": 6827,
+            "topics": [
+              "acp",
+              "agent",
+              "agent-client-protocol",
+              "anthropic",
+              "claude-code",
+              "copilot",
+              "deepseek",
+              "gemini",
+              "google-gemini",
+              "kimi",
+              "llm",
+              "neovim",
+              "nvim",
+              "ollama",
+              "openai",
+              "openrouter",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -90,12 +149,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI coding agent by JetBrains that ships code from your terminal, IDE, or CI/CD pipeline - powered by any LLM you choose",
+            "homepage": "https://junie.jetbrains.com",
             "id": 962099340,
             "language": "Shell",
-            "last_commit": "2026-08-28T14:51:26Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:16:30Z",
+            "open_issues": 61,
             "owner": "JetBrains",
             "repo": "junie",
-            "stars": 414
+            "stars": 414,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -106,12 +170,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Context management for long-context LLMs, agents, and vibe coding. Instantly build context for an entire repo, selected files, folders, and GitHub issues to generate structured AI-XML context with real-time token counting.",
+            "homepage": "https://prompttower.com",
             "id": 795577184,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-12-23T22:06:00Z",
+            "open_issues": 11,
             "owner": "backnotprop",
             "repo": "prompt-tower",
-            "stars": 383
+            "stars": 383,
+            "topics": [
+              "ai-context-management",
+              "code-assistant",
+              "llm-context",
+              "llm-prompting",
+              "prompt-context",
+              "prompt-engineering",
+              "prompt-generator",
+              "vibe-coding",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         }
@@ -128,12 +207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
+            "homepage": "https://stackblitz-labs.github.io/bolt.diy/",
             "id": 872087586,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-07T14:36:22Z",
+            "open_issues": 133,
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 19820
+            "stars": 19821,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -144,12 +228,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
+            "homepage": "https://superset.sh",
             "id": 1080370450,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T09:38:42Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:57:56Z",
+            "open_issues": 580,
             "owner": "superset-sh",
             "repo": "superset",
-            "stars": 13454
+            "stars": 13470,
+            "topics": [
+              "ade",
+              "agent",
+              "agent-orchestration",
+              "ai-agents",
+              "ai-coding",
+              "claude-code",
+              "cli",
+              "codex",
+              "coding-agents",
+              "cursor-agent",
+              "developer-tools",
+              "devtools",
+              "ide",
+              "macos",
+              "opencode",
+              "orchestration",
+              "parallel-agents",
+              "terminal",
+              "worktrees",
+              "yc-backed"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -160,12 +270,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Claude Code, Codex, and Gemini side by side — each in      its own git worktree",
+            "homepage": "https://parallelcode.app",
             "id": 1160727878,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:34:56Z",
+            "open_issues": 49,
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 996
+            "stars": 996,
+            "topics": [
+              "ai-agents",
+              "ai-coding",
+              "ai-tools",
+              "claude-code",
+              "codex-cli",
+              "coding-agent",
+              "developer-tools",
+              "gemini-cli",
+              "git-worktree",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         }
@@ -182,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+            "homepage": "https://code.claude.com/docs/en/overview",
             "id": 937253475,
             "language": "Python",
-            "last_commit": "2026-08-28T00:49:15Z",
+            "license": null,
+            "last_commit": "2026-08-28T18:19:32Z",
+            "open_issues": 15353,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 143275
+            "stars": 143320,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -198,12 +329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight coding agent that runs in your terminal",
+            "homepage": null,
             "id": 965415649,
             "language": "Rust",
-            "last_commit": "2026-08-28T15:12:20Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:01:40Z",
+            "open_issues": 14298,
             "owner": "openai",
             "repo": "codex",
-            "stars": 119488
+            "stars": 119610,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -214,12 +350,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+            "homepage": "https://geminicli.com",
             "id": 968197216,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T03:53:11Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:56:42Z",
+            "open_issues": 867,
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 106722
+            "stars": 106735,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "cli",
+              "gemini",
+              "gemini-api",
+              "mcp-client",
+              "mcp-server"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -230,12 +379,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🙌 OpenHands: AI-Driven Development",
+            "homepage": "https://openhands.dev",
             "id": 771302083,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:15:14Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:27:42Z",
+            "open_issues": 604,
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 85423
+            "stars": 85481,
+            "topics": [
+              "agent",
+              "artificial-intelligence",
+              "chatgpt",
+              "claude-ai",
+              "cli",
+              "developer-tools",
+              "gpt",
+              "llm",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -246,12 +410,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Glamourous agentic coding for all 💘",
+            "homepage": null,
             "id": 987670088,
             "language": "Go",
-            "last_commit": "2026-08-27T02:03:58Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T00:54:56Z",
+            "open_issues": 684,
             "owner": "charmbracelet",
             "repo": "crush",
-            "stars": 27757
+            "stars": 27767,
+            "topics": [
+              "agentic-ai",
+              "ai",
+              "llms",
+              "ravishing"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -262,12 +436,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source AI coding agent that lives in your terminal.",
+            "homepage": "https://qwenlm.github.io/qwen-code-docs/en/users/overview",
             "id": 1008713177,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:15:32Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:16:23Z",
+            "open_issues": 1310,
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 27455
+            "stars": 27466,
+            "topics": [
+              "agentic",
+              "ai",
+              "ai-agent",
+              "ai-coding",
+              "cli",
+              "coding-agent",
+              "developer-tools",
+              "llm",
+              "mcp",
+              "qwen",
+              "terminal",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -278,12 +470,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)\"",
+            "homepage": "http://arxiv.org/abs/2512.07921",
             "id": 983246568,
             "language": "Python",
-            "last_commit": "2026-08-28T15:07:35Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:50:29Z",
+            "open_issues": 24,
             "owner": "HKUDS",
             "repo": "DeepCode",
-            "stars": 16442
+            "stars": 16443,
+            "topics": [
+              "agentic-coding",
+              "harness-engineering",
+              "llm-agent"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -294,12 +495,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+            "homepage": "https://plandex.ai",
             "id": 709538270,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-10-03T21:49:58Z",
+            "open_issues": 62,
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15598
+            "stars": 15597,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-developer-tools",
+              "ai-tools",
+              "cli",
+              "command-line",
+              "developer-tools",
+              "git",
+              "golang",
+              "gpt-4",
+              "llm",
+              "openai",
+              "polyglot-programming",
+              "terminal",
+              "terminal-based",
+              "terminal-ui"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -310,12 +533,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kimi Code CLI is your next CLI agent.",
+            "homepage": "https://moonshotai.github.io/kimi-cli/",
             "id": 1076863218,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T07:59:07Z",
+            "open_issues": 838,
             "owner": "MoonshotAI",
             "repo": "kimi-cli",
-            "stars": 11280
+            "stars": 11282,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -326,12 +554,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface",
+            "homepage": null,
             "id": 819514136,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-12T22:08:15Z",
+            "open_issues": 50,
             "owner": "Doriandarko",
             "repo": "claude-engineer",
-            "stars": 11223
+            "stars": 11222,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -342,12 +575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. ",
+            "homepage": null,
             "id": 585860664,
             "language": "Shell",
-            "last_commit": "2026-08-28T01:32:33Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:27:36Z",
+            "open_issues": 2242,
             "owner": "github",
             "repo": "copilot-cli",
-            "stars": 11120
+            "stars": 11122,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -358,12 +596,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",
+            "homepage": null,
             "id": 608896930,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-23T11:16:42Z",
+            "open_issues": 99,
             "owner": "sigoden",
             "repo": "aichat",
-            "stars": 10403
+            "stars": 10404,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "chatbot",
+              "claude",
+              "cli",
+              "function-calling",
+              "gemini",
+              "llm",
+              "ollama",
+              "openai",
+              "rag",
+              "rust",
+              "shell",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -374,12 +632,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack ",
+            "homepage": "https://build.cloudflare.dev",
             "id": 1044360605,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T12:45:41Z",
+            "open_issues": 13,
             "owner": "cloudflare",
             "repo": "vibesdk",
-            "stars": 5335
+            "stars": 5336,
+            "topics": [
+              "ai",
+              "cloudflare-workers",
+              "coding-agent",
+              "durable-objects",
+              "text-to-app",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -390,12 +660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal CLI coding agent by Mistral",
+            "homepage": null,
             "id": 1112533539,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T15:29:03Z",
+            "open_issues": 282,
             "owner": "mistralai",
             "repo": "mistral-vibe",
-            "stars": 4885
+            "stars": 4888,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -406,12 +681,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web. Make your own persistent autonomous agent on top!",
+            "homepage": "https://gptme.org/docs/",
             "id": 618514446,
             "language": "Python",
-            "last_commit": "2026-08-28T15:08:39Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:41:42Z",
+            "open_issues": 35,
             "owner": "gptme",
             "repo": "gptme",
-            "stars": 4401
+            "stars": 4401,
+            "topics": [
+              "agent",
+              "agents",
+              "ai-agents",
+              "ai-assistant",
+              "anthropic",
+              "chatbot",
+              "chatgpt",
+              "cli",
+              "code-generation",
+              "llamacpp",
+              "llm",
+              "llm-agent",
+              "llm-apps",
+              "openai",
+              "openrouter",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -422,12 +719,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source coding agent for the Grok API",
+            "homepage": null,
             "id": 1019360350,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-06T14:05:33Z",
+            "open_issues": 32,
             "owner": "superagent-ai",
             "repo": "grok-cli",
-            "stars": 3440
+            "stars": 3440,
+            "topics": [
+              "agents",
+              "ai",
+              "cli",
+              "code",
+              "coding-agent",
+              "grok",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -438,12 +748,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Develop software autonomously.",
+            "homepage": "https://ra-aid.ai/",
             "id": 901585471,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-30T16:24:40Z",
+            "open_issues": 61,
             "owner": "ai-christianson",
             "repo": "RA.Aid",
-            "stars": 2223
+            "stars": 2223,
+            "topics": [
+              "agents",
+              "ai",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -454,12 +773,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in.",
+            "homepage": "https://vibekit.sh",
             "id": 983757718,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-13T18:48:57Z",
+            "open_issues": 35,
             "owner": "superagent-ai",
             "repo": "vibekit",
-            "stars": 1852
+            "stars": 1852,
+            "topics": [
+              "agent",
+              "ai",
+              "claude-code",
+              "codex",
+              "gemini-cli",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -470,12 +801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.",
+            "homepage": null,
             "id": 1115426732,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-08T08:13:58Z",
+            "open_issues": 27,
             "owner": "Gentleman-Programming",
             "repo": "gentleman-guardian-angel",
-            "stars": 1135
+            "stars": 1135,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -486,12 +822,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Intelligent Python Code Quality Analyzer",
+            "homepage": "https://docs.codescan.dev/",
             "id": 1033244511,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T21:35:49Z",
+            "open_issues": 11,
             "owner": "ludo-technologies",
             "repo": "pyscn",
-            "stars": 1039
+            "stars": 1039,
+            "topics": [
+              "architecture-analysis",
+              "clone-detection",
+              "code-complexity",
+              "dead-code-detection",
+              "dependency-analysis",
+              "python",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -502,12 +851,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Track AI API quotas across Synthetic, Z.ai, Anthropic (Claude Code), Codex, GitHub Copilot & Antigravity in real time. Lightweight background daemon (<50MB RAM), SQLite storage, Material Design 3 dashboard. Zero telemetry.",
+            "homepage": "https://onwatch.onllm.dev",
             "id": 1151441959,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-20T17:19:37Z",
+            "open_issues": 9,
             "owner": "onllm-dev",
             "repo": "onWatch",
-            "stars": 718
+            "stars": 718,
+            "topics": [
+              "ai-api-monitoring",
+              "antigravity",
+              "api-monitoring",
+              "claude-code",
+              "codex",
+              "developer-tools",
+              "golang",
+              "openai",
+              "quota-tracker",
+              "zai"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -518,12 +883,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple to install, powerful command-line based AI agent system for coding.",
+            "homepage": "https://mycoder.ai",
             "id": 929118172,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-01-07T16:22:18Z",
+            "open_issues": 61,
             "owner": "bhouston",
             "repo": "mycoder",
-            "stars": 567
+            "stars": 567,
+            "topics": [
+              "agent",
+              "agentic",
+              "ai",
+              "claude",
+              "coder",
+              "coding",
+              "software",
+              "swe",
+              "swe-agent",
+              "tool-use",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -534,12 +916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gemini-cli or claude code? Why not both? LangCode combines all CLI capabilities and models in one place ☂️!",
+            "homepage": "https://pypi.org/project/langchain-code/",
             "id": 1038765162,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-20T20:43:46Z",
+            "open_issues": 4,
             "owner": "zamalali",
             "repo": "langchain-code",
-            "stars": 440
+            "stars": 440,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -550,12 +937,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, interactive tool to select and share code with AI assistants like Claude and ChatGPT. Analyzes file relationships and generates context-rich output.",
+            "homepage": null,
             "id": 940756397,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-10T17:54:17Z",
+            "open_issues": 1,
             "owner": "maynetee",
             "repo": "codeselect",
-            "stars": 236
+            "stars": 236,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         }
@@ -572,12 +964,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.",
+            "homepage": "https://tryhamster.com",
             "id": 942837343,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-28T13:27:12Z",
+            "open_issues": 212,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28030
+            "stars": 28031,
+            "topics": [
+              "ai",
+              "cursor",
+              "cursor-ai",
+              "cursorai",
+              "lovable",
+              "lovable-dev",
+              "roocode",
+              "task-manager",
+              "tasks",
+              "tasks-list",
+              "windsurf",
+              "windsurf-ai"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -588,12 +998,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+            "homepage": "https://www.vibekanban.com/",
             "id": 1002125012,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-24T09:17:34Z",
+            "open_issues": 533,
             "owner": "BloopAI",
             "repo": "vibe-kanban",
-            "stars": 27943
+            "stars": 27948,
+            "topics": [
+              "agent",
+              "ai-agents",
+              "kanban",
+              "management",
+              "task-manager"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -604,12 +1025,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+            "homepage": "https://archon.diy",
             "id": 929121414,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:12:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:05:43Z",
+            "open_issues": 289,
             "owner": "coleam00",
             "repo": "Archon",
-            "stars": 23292
+            "stars": 23296,
+            "topics": [
+              "ai",
+              "automation",
+              "bun",
+              "claude",
+              "cli",
+              "coding-assistant",
+              "developer-tools",
+              "typescript",
+              "workflow-engine",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -620,12 +1057,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project management skill system for Agents that uses GitHub Issues and Git worktrees for parallel agent execution.",
+            "homepage": "https://automaze.io",
             "id": 1040397982,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-18T12:15:24Z",
+            "open_issues": 4,
             "owner": "automazeio",
             "repo": "ccpm",
-            "stars": 8352
+            "stars": 8353,
+            "topics": [
+              "ai-agents",
+              "ai-coding",
+              "claude",
+              "claude-code",
+              "project-management",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -636,12 +1085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+            "homepage": "https://awslabs.github.io/aidlc-workflows/",
             "id": 1096054771,
             "language": "Python",
-            "last_commit": "2026-08-28T05:06:08Z",
+            "license": "MIT-0",
+            "last_commit": "2026-08-28T23:00:32Z",
+            "open_issues": 109,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 4208
+            "stars": 4212,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         }
@@ -658,12 +1112,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+            "homepage": "https://context7.com",
             "id": 955620917,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:52:17Z",
+            "open_issues": 65,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61340
+            "stars": 61359,
+            "topics": [
+              "llm",
+              "mcp",
+              "mcp-server",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -674,12 +1138,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+            "homepage": "https://github.com/PatrickJS/awesome-cursorrules",
             "id": 858262444,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-30T18:01:29Z",
+            "open_issues": 58,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 40674
+            "stars": 40675,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cursor",
+              "cursor-ai-editor",
+              "cursorrules"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -690,12 +1165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 947537164,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-25T14:57:42Z",
+            "open_issues": 0,
             "owner": "EnzeD",
             "repo": "vibe-coding",
-            "stars": 4774
+            "stars": 4775,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -706,12 +1186,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs",
+            "homepage": "https://vibeworkflow.app/",
             "id": 966284222,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T09:54:43Z",
+            "open_issues": 0,
             "owner": "KhazP",
             "repo": "vibe-coding-prompt-template",
-            "stars": 2880
+            "stars": 2880,
+            "topics": [
+              "ai-agents",
+              "ai-workflow",
+              "beginner-friendly",
+              "chatgpt",
+              "claude-code",
+              "code-quality",
+              "cursor",
+              "developer-tools",
+              "gemini",
+              "llm",
+              "llm-tools",
+              "mvp-development",
+              "nodejs",
+              "npm",
+              "project-management",
+              "prompt-engineering",
+              "technical-design",
+              "typescript",
+              "vibe-coding",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -722,12 +1228,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The /llms.txt file, helping language models use your website",
+            "homepage": "http://llmstxt.org/",
             "id": 850496504,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T22:59:04Z",
+            "open_issues": 100,
             "owner": "AnswerDotAI",
             "repo": "llms-txt",
-            "stars": 2587
+            "stars": 2588,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -738,12 +1249,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md.",
+            "homepage": null,
             "id": 1127415267,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-16T19:41:15Z",
+            "open_issues": 16,
             "owner": "BayramAnnakov",
             "repo": "claude-reflect",
-            "stars": 1418
+            "stars": 1419,
+            "topics": [
+              "claude-code",
+              "claude-skills",
+              "memory",
+              "productivity",
+              "self-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -754,12 +1276,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources about Ralph, the AI coding technique that runs AI coding agents in automated loops until specifications are fulfilled.",
+            "homepage": "https://reddit.com/r/RalphCoding",
             "id": 1137340296,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-03T08:34:43Z",
+            "open_issues": 13,
             "owner": "snwfdhmp",
             "repo": "awesome-ralph",
-            "stars": 916
+            "stars": 916,
+            "topics": [
+              "ai-coding",
+              "claude",
+              "claude-code",
+              "ralph",
+              "ralph-loop",
+              "ralph-wiggum",
+              "vibe-coding"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         },
@@ -770,12 +1305,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups.",
+            "homepage": "https://www.npmjs.com/package/@mcpware/cross-code-organizer",
             "id": 1185714860,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-07T06:48:36Z",
+            "open_issues": 12,
             "owner": "mcpware",
             "repo": "cross-code-organizer",
-            "stars": 375
+            "stars": 376,
+            "topics": [
+              "ai-coding-tools",
+              "ai-config-dashboard",
+              "ai-tools",
+              "claude",
+              "claude-code",
+              "claude-code-organizer",
+              "claude-code-plugin",
+              "claude-memory",
+              "claude-skills",
+              "codex-cli",
+              "context-budget",
+              "cross-code-organizer",
+              "cross-harness",
+              "dashboard",
+              "mcp",
+              "mcp-security",
+              "mcp-server",
+              "model-context-protocol",
+              "security-scanner",
+              "tool-poisoning"
+            ]
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
         }
@@ -784,15 +1345,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:16:59.784Z",
+    "last_updated": "2026-08-29T04:16:25.493Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of vibe coding references, collaborating with AI to write code.",
+      "homepage": null,
       "id": 948072295,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-16T01:34:11Z",
+      "open_issues": 156,
       "owner": "filipecalegario",
       "repo": "awesome-vibe-coding",
-      "stars": 5178
+      "stars": 5180,
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "ai-coding-assistant",
+        "ai-coding-tools",
+        "awesome",
+        "awesome-list",
+        "cursor",
+        "lovable",
+        "vibe-coding"
+      ]
     },
     "original_repository_sha": "59d50281e40651d574ea0ead592a08019d74730d",
     "enhanced_repository": "enhansome/enhansome-vibe-coding",
