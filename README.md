@@ -68,13 +68,13 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Plugins and Extensions
 
-* [continuedev/continue](https://github.com/continuedev/continue) ⭐ 36,468 | 🐛 865 | 🌐 TypeScript | 📅 2026-11-05 - Open-source AI code agent with IDE extensions, CLI tool, and source-controlled AI checks enforceable in CI.
-* [Tabby](https://github.com/TabbyML/tabby) ⭐ 33,935 | 🐛 350 | 🌐 Rust | 📅 2026-06-30 - Self-hosted AI coding assistant, open-source alternative to GitHub Copilot with code completion and repository-level context.
-* [avante.nvim](https://github.com/yetone/avante.nvim) ⭐ 18,191 | 🐛 56 | 🌐 Lua | 📅 2026-11-12 - Neovim plugin designed to emulate the behavior of the Cursor AI IDE with AI-driven code suggestions.
-* [copilot.vim](https://github.com/github/copilot.vim) ⭐ 11,710 | 🐛 83 | 🌐 Vim Script | 📅 2026-08-11 - Official GitHub Copilot plugin for Vim/Neovim.
-* [CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim) ⭐ 6,936 | 🐛 19 | 🌐 Lua | 📅 2026-11-13 - Neovim plugin for AI-assisted coding with agents, slash commands, and multiple LLM support.
-* [Junie](https://github.com/JetBrains/Junie) ⭐ 558 | 🐛 26 | 🌐 Shell | 📅 2026-11-13 - LLM-agnostic coding agent by JetBrains for terminal, IDE, and CI/CD.
-* [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) ⭐ 394 | 🐛 12 | 🌐 TypeScript | 📅 2025-12-23 - A tool that helps you build prompts with many code blocks.
+* [continuedev/continue](https://github.com/continuedev/continue) ⭐ 36,480 | 🐛 862 | 🌐 TypeScript | 📅 2026-11-13 - Open-source AI code agent with IDE extensions, CLI tool, and source-controlled AI checks enforceable in CI.
+* [Tabby](https://github.com/TabbyML/tabby) ⭐ 33,936 | 🐛 350 | 🌐 Rust | 📅 2026-06-30 - Self-hosted AI coding assistant, open-source alternative to GitHub Copilot with code completion and repository-level context.
+* [avante.nvim](https://github.com/yetone/avante.nvim) ⭐ 18,193 | 🐛 56 | 🌐 Lua | 📅 2026-11-12 - Neovim plugin designed to emulate the behavior of the Cursor AI IDE with AI-driven code suggestions.
+* [copilot.vim](https://github.com/github/copilot.vim) ⭐ 11,712 | 🐛 83 | 🌐 Vim Script | 📅 2026-08-11 - Official GitHub Copilot plugin for Vim/Neovim.
+* [CodeCompanion.nvim](https://github.com/olimorris/codecompanion.nvim) ⭐ 6,939 | 🐛 20 | 🌐 Lua | 📅 2026-11-13 - Neovim plugin for AI-assisted coding with agents, slash commands, and multiple LLM support.
+* [Junie](https://github.com/JetBrains/Junie) ⭐ 559 | 🐛 26 | 🌐 Shell | 📅 2026-11-13 - LLM-agnostic coding agent by JetBrains for terminal, IDE, and CI/CD.
+* [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) ⭐ 395 | 🐛 12 | 🌐 TypeScript | 📅 2025-12-23 - A tool that helps you build prompts with many code blocks.
 * [Cline](https://cline.bot/) - Autonomous AI coding agent for VS Code that plans, creates files, runs builds, and fixes errors using MCP.
 * [Roo Code](https://roocode.com/) - AI dev team with multiple Modes (Code, Architect, Debug), Cloud Agents, and Slack/GitHub integration.
 * [Kilo Code](https://kilocode.ai/) - Open-source AI coding agent for VS Code, JetBrains, and CLI with Orchestrator mode and Memory Bank.
@@ -91,9 +91,9 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 * [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) ⭐ 20,086 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-14 - Open-source version of Bolt.new with Electron desktop apps, 19+ AI providers, and local model support via Ollama.
 
-* [Superset](https://github.com/superset-sh/superset) ⭐ 16,269 | 🐛 1,285 | 🌐 TypeScript | 📅 2026-11-13 - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
+* [Superset](https://github.com/superset-sh/superset) ⭐ 16,298 | 🐛 1,297 | 🌐 TypeScript | 📅 2026-11-14 - Desktop app to orchestrate multiple AI coding agents in parallel (Claude Code, Codex, etc.) with Git worktree isolation.
 
-* [Parallel Code](https://github.com/johannesjo/parallel-code) ⭐ 1,088 | 🐛 58 | 🌐 TypeScript | 📅 2026-11-13 - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+* [Parallel Code](https://github.com/johannesjo/parallel-code) ⭐ 1,089 | 🐛 63 | 🌐 TypeScript | 📅 2026-11-13 - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
 
 * [CCHub](https://github.com/Moresl/cchub) - Desktop app for managing the Claude Code ecosystem — MCP server marketplace, config profile switching, workflow templates, security audit, and autopilot. Built with Tauri + React + Rust.
 
@@ -101,28 +101,28 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Command Line Tools
 
-* 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 155,507 | 🐛 17,048 | 🌐 TypeScript | 📅 2026-11-13 - Coding agent that understands your codebase, automates tasks, explains code, and manages Git, all via natural language.
-* [OpenAI Codex CLI](https://github.com/openai/codex) ⭐ 135,150 | 🐛 27,506 | 🌐 Rust | 📅 2026-11-13 - OpenAI's coding agent in the terminal with Codex Cloud, IDE extension, and multi-model support.
-* [Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 108,812 | 🐛 717 | 🌐 TypeScript | 📅 2026-11-13 - An open-source AI agent from Google that brings the power of Gemini directly into your terminal. Generous free tier (60 req/min, 1000/day).
-* [OpenHands](https://github.com/All-Hands-AI/OpenHands) ⭐ 93,387 | 🐛 1,182 | 🌐 TypeScript | 📅 2026-11-13 - Open-source AI-driven development agent with CLI, GUI, and cloud modes, supporting Claude, GPT, and other models.
-* [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) ⭐ 30,074 | 🐛 2,251 | 🌐 TypeScript | 📅 2026-11-13 - "qwen-code is a coding agent that lives in digital world".
-* [charmbracelet/crush](https://github.com/charmbracelet/crush) ⭐ 29,072 | 🐛 542 | 🌐 Go | 📅 2026-11-13 - "The glamorous AI coding agent for your favourite terminal", multi-model with beautiful TUI.
+* 🔥 [anthropics/claude-code](https://github.com/anthropics/claude-code) ⭐ 155,617 | 🐛 17,115 | 🌐 TypeScript | 📅 2026-11-14 - Coding agent that understands your codebase, automates tasks, explains code, and manages Git, all via natural language.
+* [OpenAI Codex CLI](https://github.com/openai/codex) ⭐ 135,235 | 🐛 27,606 | 🌐 Rust | 📅 2026-11-14 - OpenAI's coding agent in the terminal with Codex Cloud, IDE extension, and multi-model support.
+* [Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 108,823 | 🐛 722 | 🌐 TypeScript | 📅 2026-11-14 - An open-source AI agent from Google that brings the power of Gemini directly into your terminal. Generous free tier (60 req/min, 1000/day).
+* [OpenHands](https://github.com/All-Hands-AI/OpenHands) ⭐ 93,453 | 🐛 1,185 | 🌐 TypeScript | 📅 2026-11-14 - Open-source AI-driven development agent with CLI, GUI, and cloud modes, supporting Claude, GPT, and other models.
+* [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) ⭐ 30,135 | 🐛 2,268 | 🌐 TypeScript | 📅 2026-11-14 - "qwen-code is a coding agent that lives in digital world".
+* [charmbracelet/crush](https://github.com/charmbracelet/crush) ⭐ 29,078 | 🐛 547 | 🌐 Go | 📅 2026-11-14 - "The glamorous AI coding agent for your favourite terminal", multi-model with beautiful TUI.
 * [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) ⭐ 16,844 | 🐛 42 | 🌐 Python | 📅 2026-11-02 - Deep learning for code analysis and generation. Achieves SOTA on PaperBench.
-* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,911 | 🐛 71 | 🌐 Go | 📅 2025-10-03 - Terminal-based AI coding agent with REPL mode for planning and executing complex tasks across multiple files, 2M token context.
-* [GitHub Copilot CLI](https://github.com/github/copilot-cli) ⭐ 11,411 | 🐛 2,208 | 🌐 Python | 📅 2026-11-13 - Full agentic development environment in the terminal with Autopilot mode, multi-model support, and GitHub integration. GA since Feb 2026.
+* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,915 | 🐛 71 | 🌐 Go | 📅 2025-10-03 - Terminal-based AI coding agent with REPL mode for planning and executing complex tasks across multiple files, 2M token context.
+* [GitHub Copilot CLI](https://github.com/github/copilot-cli) ⭐ 11,413 | 🐛 2,204 | 🌐 Python | 📅 2026-11-13 - Full agentic development environment in the terminal with Autopilot mode, multi-model support, and GitHub integration. GA since Feb 2026.
 * [kimi-cli](https://github.com/MoonshotAI/kimi-cli) ⚠️ Archived - Official command-line interface for Kimi, an AI assistant that helps with coding tasks and development workflows.
 * [claude-engineer](https://github.com/Doriandarko/claude-engineer) ⭐ 11,220 | 🐛 48 | 🌐 Python | 📅 2024-12-12 - A self-improving AI coding assistant CLI built on Claude that can generate and manage its own tools.
-* [aichat](https://github.com/sigoden/aichat) ⭐ 10,569 | 🐛 108 | 🌐 Rust | 📅 2026-02-23 - All-in-one LLM CLI tool featuring shell assistant, REPL mode, RAG, AI tools and agents, supporting 20+ providers.
-* [Cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) ⭐ 5,474 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-22 - Cloudflare's SDK for vibe coding.
-* [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) ⭐ 5,381 | 🐛 484 | 🌐 Python | 📅 2026-11-10 - Mistral AI's vibe coding tool.
-* [gptme](https://github.com/ErikBjare/gptme) ⭐ 4,472 | 🐛 21 | 🌐 Python | 📅 2026-11-13 - A personal AI agent in your terminal, equipped with local tools for coding, shell commands, file editing, and web browsing.
+* [aichat](https://github.com/sigoden/aichat) ⭐ 10,574 | 🐛 108 | 🌐 Rust | 📅 2026-02-23 - All-in-one LLM CLI tool featuring shell assistant, REPL mode, RAG, AI tools and agents, supporting 20+ providers.
+* [Cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) ⭐ 5,475 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-22 - Cloudflare's SDK for vibe coding.
+* [mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe) ⭐ 5,387 | 🐛 490 | 🌐 Python | 📅 2026-11-10 - Mistral AI's vibe coding tool.
+* [gptme](https://github.com/ErikBjare/gptme) ⭐ 4,477 | 🐛 20 | 🌐 Python | 📅 2026-11-14 - A personal AI agent in your terminal, equipped with local tools for coding, shell commands, file editing, and web browsing.
 * [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) ⭐ 3,510 | 🐛 35 | 🌐 TypeScript | 📅 2026-07-06 - Command-line interface for AI-powered coding assistance.
-* [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) ⭐ 2,222 | 🐛 61 | 🌐 Python | 📅 2026-01-30 - A standalone coding agent built on LangGraph's agent-based task execution framework.
+* [ai-christianson/RA.Aid](https://github.com/ai-christianson/RA.Aid) ⭐ 2,221 | 🐛 61 | 🌐 Python | 📅 2026-01-30 - A standalone coding agent built on LangGraph's agent-based task execution framework.
 * [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) ⭐ 1,867 | 🐛 38 | 🌐 TypeScript | 📅 2026-01-13 - A toolkit for building vibe coding applications.
-* [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) ⭐ 1,294 | 🐛 55 | 🌐 Shell | 📅 2026-07-08 - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
-* [pyscn](https://github.com/ludo-technologies/pyscn) ⭐ 1,109 | 🐛 8 | 🌐 Go | 📅 2026-11-12 - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
-* [onWatch](https://github.com/onllm-dev/onwatch) ⭐ 774 | 🐛 11 | 🌐 Go | 📅 2026-10-23 - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
-* [MyCoder.ai](https://github.com/drivecore/mycoder) ⭐ 567 | 🐛 61 | 🌐 TypeScript | 📅 2026-01-07 - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
+* [Gentleman-Programming/gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) ⭐ 1,325 | 🐛 55 | 🌐 Shell | 📅 2026-07-08 - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
+* [pyscn](https://github.com/ludo-technologies/pyscn) ⭐ 1,109 | 🐛 9 | 🌐 Go | 📅 2026-11-12 - Code quality analyzer for vibe-coded Python. Detects dead code, clones, complexity issues, and coupling problems with MCP integration for AI assistants.
+* [onWatch](https://github.com/onllm-dev/onwatch) ⭐ 774 | 🐛 12 | 🌐 Go | 📅 2026-10-23 - Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, OpenAI, GitHub Copilot, MiniMax, and more). Works with Claude Code, Codex CLI, Cursor, Cline, and other vibe coding tools. Background daemon, <50MB RAM, zero telemetry.
+* [MyCoder.ai](https://github.com/drivecore/mycoder) ⭐ 568 | 🐛 61 | 🌐 TypeScript | 📅 2026-01-07 - Open source AI-powered coding assistant with Git and GitHub integration, featuring parallel execution and self-modification capabilities.
 * [langchain-code](https://github.com/zamalali/langchain-code) ⭐ 440 | 🐛 5 | 🌐 Python | 📅 2025-11-20 - LangChain-based coding agent for AI-assisted development. Supports Gemini, Anthropic, OpenAI, and Ollama.
 * [CodeSelect](https://github.com/maynetee/codeselect) ⭐ 236 | 🐛 1 | 🌐 Python | 📅 2026-09-24 - A Python-based command-line tool that efficiently communicates project source code to AIs.
 * [aider](https://aider.chat/) - AI pair programming in your terminal. Git-first with multi-file coordinated changes across 100+ languages.
@@ -133,23 +133,23 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 
 ## Task Management for AI Coding
 
-* 🔥 [vibe-kanban](https://github.com/BloopAI/vibe-kanban) ⭐ 28,673 | 🐛 534 | 🌐 Rust | 📅 2026-11-12 - A kanban board to manage and orchestrate AI coding agents. Supports 10+ coding agents.
+* 🔥 [vibe-kanban](https://github.com/BloopAI/vibe-kanban) ⭐ 28,685 | 🐛 536 | 🌐 Rust | 📅 2026-11-12 - A kanban board to manage and orchestrate AI coding agents. Supports 10+ coding agents.
 * [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) ⭐ 28,358 | 🐛 215 | 🌐 JavaScript | 📅 2026-04-28 - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-* [Archon](https://github.com/coleam00/Archon) ⭐ 23,909 | 🐛 154 | 🌐 TypeScript | 📅 2026-11-13 - Knowledge and task management backbone for AI coding assistants via MCP.
-* [CCPM (Claude Code PM)](https://github.com/automazeio/ccpm) ⭐ 8,446 | 🐛 1 | 🌐 Shell | 📅 2026-11-04 - Project management for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
-* [AI-DLC Workflows (AWS Labs)](https://github.com/awslabs/aidlc-workflows) ⭐ 6,066 | 🐛 308 | 🌐 TypeScript | 📅 2026-11-13 - AI-Driven Development Life Cycle workflow rules for coding agents. Supports Kiro, Q Developer, Cursor, Cline, Claude Code.
+* [Archon](https://github.com/coleam00/Archon) ⭐ 23,916 | 🐛 178 | 🌐 TypeScript | 📅 2026-11-13 - Knowledge and task management backbone for AI coding assistants via MCP.
+* [CCPM (Claude Code PM)](https://github.com/automazeio/ccpm) ⭐ 8,448 | 🐛 1 | 🌐 Shell | 📅 2026-11-04 - Project management for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+* [AI-DLC Workflows (AWS Labs)](https://github.com/awslabs/aidlc-workflows) ⭐ 6,078 | 🐛 320 | 🌐 TypeScript | 📅 2026-11-14 - AI-Driven Development Life Cycle workflow rules for coding agents. Supports Kiro, Q Developer, Cursor, Cline, Claude Code.
 * [Boomerang Tasks](https://docs.roocode.com/features/boomerang-tasks) - Automatically break down complex projects into smaller, manageable pieces.
 
 ## Documentation for AI Coding
 
-* [Context7](https://github.com/upstash/context7) ⭐ 64,725 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-13 - Delivers up-to-date, version-specific documentation directly into LLM prompts. MCP server + CLI.
-* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 41,156 | 🐛 119 | 🌐 JavaScript | 📅 2026-05-30 - Curated collection of `.cursorrules` configuration files for the Cursor AI editor.
-* [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) ⭐ 4,808 | 🐛 0 | 📅 2026-05-25 - The Ultimate Guide to Vibe Coding with best practices and tips.
-* [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) ⭐ 3,251 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-04 - A prompt template for vibe coding.
-* [llms.txt](https://github.com/AnswerDotAI/llms-txt) ⭐ 2,685 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2026-09-24 - Standardized markdown file specification for making website documentation LLM-friendly.
-* [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) ⭐ 1,945 | 🐛 14 | 🌐 Python | 📅 2026-10-03 - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
+* [Context7](https://github.com/upstash/context7) ⭐ 64,779 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-13 - Delivers up-to-date, version-specific documentation directly into LLM prompts. MCP server + CLI.
+* [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) ⭐ 41,158 | 🐛 121 | 🌐 JavaScript | 📅 2026-05-30 - Curated collection of `.cursorrules` configuration files for the Cursor AI editor.
+* [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding) ⭐ 4,809 | 🐛 0 | 📅 2026-05-25 - The Ultimate Guide to Vibe Coding with best practices and tips.
+* [KhazP/vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) ⭐ 3,252 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-04 - A prompt template for vibe coding.
+* [llms.txt](https://github.com/AnswerDotAI/llms-txt) ⭐ 2,687 | 🐛 120 | 🌐 Jupyter Notebook | 📅 2026-09-24 - Standardized markdown file specification for making website documentation LLM-friendly.
+* [claude-reflect](https://github.com/BayramAnnakov/claude-reflect) ⭐ 1,949 | 🐛 14 | 🌐 Python | 📅 2026-10-03 - Self-learning system for Claude Code that captures corrections and syncs approved learnings to CLAUDE.md files.
 * [awesome-ralph](https://github.com/snwfdhmp/awesome-ralph) ⭐ 936 | 🐛 5 | 📅 2026-11-08 - A curated list of resources about Ralph, the vibe coding technique that runs vibe coding agents in automated loops until specifications are fulfilled.
-* [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) ⭐ 392 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-04 - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
+* [Claude Code Organizer](https://github.com/mcpware/claude-code-organizer) ⭐ 392 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-14 - Visual dashboard and MCP server to organize Claude Code memories, skills, MCP servers, and hooks with scope hierarchy and drag-and-drop.
 * [CodeGuide](https://www.codeguide.dev/) - Creates detailed Documentation for your AI Coding Projects.
 * [AGENTS.md](https://agents.md/) - A simple, open format for guiding coding agents, stewarded by the Linux Foundation.
 * 🔥 [getdesign.md](https://getdesign.md/) - Browsable library of DESIGN.md files curated from real websites.
@@ -187,7 +187,7 @@ English | [Português](./README-PT.md) | [한국어](./README-KR.md) | [中文](
 * [Vibe Coding - Where Everyone Can 'Speak' Computer Programming - The New Stack](https://thenewstack.io/vibe-coding-where-everyone-can-speak-computer-programming/)
 * [A.I. and Vibecoding Helped Me to Create My Own Software - The New York Times](https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html)
 * [Vibe Engineering](https://www.manning.com/books/vibe-engineering)
-* [Mysti](https://github.com/DeepMyst/Mysti) ⭐ 1,156 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-10 - Multi-agent AI coding assistant for VS Code. Claude Code, Codex, Gemini, and GitHub Copilot brainstorm together and deliver collaborative solutions.
+* [Mysti](https://github.com/DeepMyst/Mysti) ⭐ 1,157 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-10 - Multi-agent AI coding assistant for VS Code. Claude Code, Codex, Gemini, and GitHub Copilot brainstorm together and deliver collaborative solutions.
 
 ## Contribute
 
@@ -195,4 +195,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
