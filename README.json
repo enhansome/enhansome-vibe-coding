@@ -15,11 +15,11 @@
             "id": 644686905,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T07:08:52Z",
-            "open_issues": 858,
+            "last_commit": "2026-11-18T21:58:11Z",
+            "open_issues": 860,
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 36509,
+            "stars": 36516,
             "topics": [
               "agent",
               "ai",
@@ -43,10 +43,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-06-30T20:38:02Z",
-            "open_issues": 353,
+            "open_issues": 351,
             "owner": "TabbyML",
             "repo": "tabby",
-            "stars": 33931,
+            "stars": 33932,
             "topics": [
               "ai",
               "codegen",
@@ -73,11 +73,11 @@
             "id": 842586148,
             "language": "Lua",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T10:19:15Z",
-            "open_issues": 64,
+            "last_commit": "2026-11-18T17:59:04Z",
+            "open_issues": 62,
             "owner": "avante-corp",
             "repo": "avante.nvim",
-            "stars": 18202,
+            "stars": 18205,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -98,7 +98,7 @@
             "open_issues": 83,
             "owner": "github",
             "repo": "copilot.vim",
-            "stars": 11717,
+            "stars": 11721,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -116,7 +116,7 @@
             "language": "Lua",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T09:29:22Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "olimorris",
             "repo": "codecompanion.nvim",
             "stars": 6947,
@@ -154,11 +154,11 @@
             "id": 962099340,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T11:11:06Z",
+            "last_commit": "2026-11-19T10:46:15Z",
             "open_issues": 26,
             "owner": "JetBrains",
             "repo": "junie",
-            "stars": 565,
+            "stars": 567,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -179,7 +179,7 @@
             "open_issues": 12,
             "owner": "backnotprop",
             "repo": "prompt-tower",
-            "stars": 395,
+            "stars": 396,
             "topics": [
               "ai-context-management",
               "code-assistant",
@@ -212,11 +212,11 @@
             "id": 872087586,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T10:26:28Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-18T19:52:02Z",
+            "open_issues": 2,
             "owner": "stackblitz-labs",
             "repo": "bolt.diy",
-            "stars": 20104,
+            "stars": 20109,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -233,11 +233,11 @@
             "id": 1080370450,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T11:27:25Z",
-            "open_issues": 1273,
+            "last_commit": "2026-11-19T09:48:39Z",
+            "open_issues": 1280,
             "owner": "ParadevAI",
             "repo": "Paradev",
-            "stars": 16377,
+            "stars": 16400,
             "topics": [
               "ade",
               "agent",
@@ -275,11 +275,11 @@
             "id": 1160727878,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T11:25:46Z",
+            "last_commit": "2026-11-18T18:52:35Z",
             "open_issues": 68,
             "owner": "johannesjo",
             "repo": "parallel-code",
-            "stars": 1095,
+            "stars": 1098,
             "topics": [
               "ai-agents",
               "ai-coding",
@@ -313,11 +313,11 @@
             "id": 937253475,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-18T11:10:30Z",
-            "open_issues": 17079,
+            "last_commit": "2026-11-19T08:23:13Z",
+            "open_issues": 17029,
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 156107,
+            "stars": 156250,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -334,11 +334,11 @@
             "id": 965415649,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T11:01:35Z",
-            "open_issues": 27757,
+            "last_commit": "2026-11-19T10:47:11Z",
+            "open_issues": 27897,
             "owner": "openai",
             "repo": "codex",
-            "stars": 135753,
+            "stars": 135845,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -355,11 +355,11 @@
             "id": 968197216,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T01:06:44Z",
-            "open_issues": 738,
+            "last_commit": "2026-11-19T09:25:07Z",
+            "open_issues": 734,
             "owner": "google-gemini",
             "repo": "gemini-cli",
-            "stars": 108915,
+            "stars": 108938,
             "topics": [
               "ai",
               "ai-agents",
@@ -384,11 +384,11 @@
             "id": 771302083,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T10:28:10Z",
-            "open_issues": 1201,
+            "last_commit": "2026-11-19T10:15:58Z",
+            "open_issues": 1216,
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 93724,
+            "stars": 93818,
             "topics": [
               "agent",
               "artificial-intelligence",
@@ -415,11 +415,11 @@
             "id": 1008713177,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T11:31:23Z",
-            "open_issues": 2430,
+            "last_commit": "2026-11-19T11:16:23Z",
+            "open_issues": 2464,
             "owner": "QwenLM",
             "repo": "qwen-code",
-            "stars": 30745,
+            "stars": 30777,
             "topics": [
               "agentic",
               "ai",
@@ -449,11 +449,11 @@
             "id": 987670088,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T08:35:29Z",
-            "open_issues": 547,
+            "last_commit": "2026-11-19T01:21:20Z",
+            "open_issues": 553,
             "owner": "charmbracelet",
             "repo": "crush",
-            "stars": 29114,
+            "stars": 29133,
             "topics": [
               "agentic-ai",
               "ai",
@@ -479,7 +479,7 @@
             "open_issues": 27,
             "owner": "HKUDS",
             "repo": "DeepCode",
-            "stars": 16851,
+            "stars": 16852,
             "topics": [
               "agentic-coding",
               "harness-engineering",
@@ -504,7 +504,7 @@
             "open_issues": 71,
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15922,
+            "stars": 15924,
             "topics": [
               "ai",
               "ai-agents",
@@ -539,10 +539,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-18T05:59:29Z",
-            "open_issues": 2199,
+            "open_issues": 2176,
             "owner": "github",
             "repo": "copilot-cli",
-            "stars": 11428,
+            "stars": 11433,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -563,7 +563,7 @@
             "open_issues": 792,
             "owner": "MoonshotAI",
             "repo": "kimi-cli",
-            "stars": 11411,
+            "stars": 11407,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -584,7 +584,7 @@
             "open_issues": 47,
             "owner": "Doriandarko",
             "repo": "claude-engineer",
-            "stars": 11219,
+            "stars": 11222,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -605,7 +605,7 @@
             "open_issues": 108,
             "owner": "sigoden",
             "repo": "aichat",
-            "stars": 10585,
+            "stars": 10587,
             "topics": [
               "ai",
               "ai-agents",
@@ -641,7 +641,7 @@
             "open_issues": 22,
             "owner": "cloudflare",
             "repo": "vibesdk",
-            "stars": 5476,
+            "stars": 5478,
             "topics": [
               "ai",
               "cloudflare-workers",
@@ -666,10 +666,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-18T08:02:43Z",
-            "open_issues": 497,
+            "open_issues": 528,
             "owner": "mistralai",
             "repo": "mistral-vibe",
-            "stars": 5415,
+            "stars": 5430,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -686,11 +686,11 @@
             "id": 618514446,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T09:40:24Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-19T11:29:33Z",
+            "open_issues": 18,
             "owner": "gptme",
             "repo": "gptme",
-            "stars": 4487,
+            "stars": 4488,
             "topics": [
               "agent",
               "agents",
@@ -732,7 +732,7 @@
             "open_issues": 35,
             "owner": "superagent-ai",
             "repo": "grok-cli",
-            "stars": 3513,
+            "stars": 3512,
             "topics": [
               "agents",
               "ai",
@@ -761,7 +761,7 @@
             "open_issues": 61,
             "owner": "ai-christianson",
             "repo": "RA.Aid",
-            "stars": 2222,
+            "stars": 2223,
             "topics": [
               "agents",
               "ai",
@@ -786,7 +786,7 @@
             "open_issues": 38,
             "owner": "superagent-ai",
             "repo": "vibekit",
-            "stars": 1867,
+            "stars": 1870,
             "topics": [
               "agent",
               "ai",
@@ -814,7 +814,7 @@
             "open_issues": 55,
             "owner": "Gentleman-Programming",
             "repo": "gentleman-guardian-angel",
-            "stars": 1347,
+            "stars": 1352,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -835,7 +835,7 @@
             "open_issues": 7,
             "owner": "ludo-technologies",
             "repo": "pyscn",
-            "stars": 1111,
+            "stars": 1113,
             "topics": [
               "architecture-analysis",
               "clone-detection",
@@ -861,10 +861,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-11-16T22:50:16Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "onllm-dev",
             "repo": "onWatch",
-            "stars": 773,
+            "stars": 775,
             "topics": [
               "ai-api-monitoring",
               "antigravity",
@@ -896,7 +896,7 @@
             "open_issues": 61,
             "owner": "bhouston",
             "repo": "mycoder",
-            "stars": 568,
+            "stars": 569,
             "topics": [
               "agent",
               "agentic",
@@ -929,7 +929,7 @@
             "open_issues": 5,
             "owner": "zamalali",
             "repo": "langchain-code",
-            "stars": 439,
+            "stars": 440,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -950,7 +950,7 @@
             "open_issues": 1,
             "owner": "maynetee",
             "repo": "codeselect",
-            "stars": 236,
+            "stars": 237,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -977,7 +977,7 @@
             "open_issues": 534,
             "owner": "BloopAI",
             "repo": "vibe-kanban",
-            "stars": 28727,
+            "stars": 28746,
             "topics": [
               "agent",
               "ai-agents",
@@ -1004,7 +1004,7 @@
             "open_issues": 215,
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28371,
+            "stars": 28376,
             "topics": [
               "ai",
               "cursor",
@@ -1034,11 +1034,11 @@
             "id": 929121414,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T11:23:32Z",
-            "open_issues": 211,
+            "last_commit": "2026-11-19T08:50:44Z",
+            "open_issues": 208,
             "owner": "coleam00",
             "repo": "Archon",
-            "stars": 23946,
+            "stars": 23953,
             "topics": [
               "ai",
               "automation",
@@ -1070,7 +1070,7 @@
             "open_issues": 1,
             "owner": "automazeio",
             "repo": "ccpm",
-            "stars": 8453,
+            "stars": 8460,
             "topics": [
               "ai-agents",
               "ai-coding",
@@ -1094,11 +1094,11 @@
             "id": 1096054771,
             "language": "TypeScript",
             "license": "MIT-0",
-            "last_commit": "2026-11-18T11:25:17Z",
-            "open_issues": 318,
+            "last_commit": "2026-11-19T08:52:06Z",
+            "open_issues": 322,
             "owner": "awslabs",
             "repo": "aidlc-workflows",
-            "stars": 6142,
+            "stars": 6165,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -1121,11 +1121,11 @@
             "id": 955620917,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T09:34:59Z",
-            "open_issues": 47,
+            "last_commit": "2026-11-19T02:01:55Z",
+            "open_issues": 55,
             "owner": "upstash",
             "repo": "context7",
-            "stars": 65050,
+            "stars": 65105,
             "topics": [
               "llm",
               "mcp",
@@ -1148,10 +1148,10 @@
             "language": "JavaScript",
             "license": "CC0-1.0",
             "last_commit": "2026-05-30T18:01:29Z",
-            "open_issues": 121,
+            "open_issues": 123,
             "owner": "PatrickJS",
             "repo": "awesome-cursorrules",
-            "stars": 41167,
+            "stars": 41175,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1199,7 +1199,7 @@
             "open_issues": 0,
             "owner": "KhazP",
             "repo": "vibe-coding-prompt-template",
-            "stars": 3263,
+            "stars": 3266,
             "topics": [
               "ai-agents",
               "ai-workflow",
@@ -1238,10 +1238,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T18:21:11Z",
-            "open_issues": 123,
+            "open_issues": 124,
             "owner": "AnswerDotAI",
             "repo": "llms-txt",
-            "stars": 2691,
+            "stars": 2694,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:59.784Z"
@@ -1262,7 +1262,7 @@
             "open_issues": 16,
             "owner": "BayramAnnakov",
             "repo": "claude-reflect",
-            "stars": 1961,
+            "stars": 1968,
             "topics": [
               "claude-code",
               "claude-skills",
@@ -1289,7 +1289,7 @@
             "open_issues": 6,
             "owner": "snwfdhmp",
             "repo": "awesome-ralph",
-            "stars": 938,
+            "stars": 939,
             "topics": [
               "ai-coding",
               "awesome",
@@ -1320,7 +1320,7 @@
             "open_issues": 8,
             "owner": "mcpware",
             "repo": "cross-code-organizer",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "ai-coding-tools",
               "ai-config-dashboard",
@@ -1351,7 +1351,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T11:31:33.098Z",
+    "last_updated": "2026-11-19T11:30:04.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of vibe coding references, collaborating with AI to write code.",
@@ -1363,7 +1363,7 @@
       "open_issues": 334,
       "owner": "filipecalegario",
       "repo": "awesome-vibe-coding",
-      "stars": 5443,
+      "stars": 5447,
       "topics": [
         "ai-agent",
         "ai-agents",
